@@ -19,23 +19,11 @@ body {
 footer {
     margin: 50px 0;
 }
-
-
-
-.inrow {
-    white-space: nowrap;
-}
-
-
-
-    
-.cl, .cl1{background-color: green;
-    
-}
-
-.flexslider{
+.ass{
+    background-color: green;
     width: auto;
-   
-    
+}
+.ass1{
+    background-color: brown;
     
 }

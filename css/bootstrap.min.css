@@ -1386,7 +1386,7 @@ th {
 }
 
 html {
-    
+    font-size: 10px;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
 }
 
@@ -2848,40 +2848,7 @@ th {
 
 .table>tbody+tbody {
     border-top: 2px solid #ddd
-}    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
 .table .table {
     background-color: #fff
@@ -5977,7 +5944,7 @@ a.badge:hover {
     padding-bottom: 30px;
     margin-bottom: 30px;
     color: inherit;
-    background-color: brown;
+    background-color: #eee
 }
 
 .jumbotron .h1,
